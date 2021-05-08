@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TwitterTodoList/static/css/main.76bcd5f5.chunk.css",
+    "main.js": "/TwitterTodoList/static/js/main.645baf47.chunk.js",
+    "main.js.map": "/TwitterTodoList/static/js/main.645baf47.chunk.js.map",
+    "runtime-main.js": "/TwitterTodoList/static/js/runtime-main.392652ce.js",
+    "runtime-main.js.map": "/TwitterTodoList/static/js/runtime-main.392652ce.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/TwitterTodoList/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.b24020b2.chunk.js": "/TwitterTodoList/static/js/2.b24020b2.chunk.js",
+    "static/js/2.b24020b2.chunk.js.map": "/TwitterTodoList/static/js/2.b24020b2.chunk.js.map",
+    "index.html": "/TwitterTodoList/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/TwitterTodoList/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.76bcd5f5.chunk.css.map": "/TwitterTodoList/static/css/main.76bcd5f5.chunk.css.map",
+    "static/js/2.b24020b2.chunk.js.LICENSE.txt": "/TwitterTodoList/static/js/2.b24020b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.392652ce.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.b24020b2.chunk.js",
+    "static/css/main.76bcd5f5.chunk.css",
+    "static/js/main.645baf47.chunk.js"
+  ]
+}
